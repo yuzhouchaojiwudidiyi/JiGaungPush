@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JiGaungPush</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="come_on">出来吧!</string>
+    <string name="snow_music">藏族音乐</string>
+</resources>
